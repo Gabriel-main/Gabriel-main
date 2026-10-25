@@ -6,13 +6,12 @@
 <h3 align="center">💻 Desarrollador de Software | Especializado en Backend y Web</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-main&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-main&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### 🚀 Tech Stack
