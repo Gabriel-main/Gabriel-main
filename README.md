@@ -10,6 +10,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-main&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+### 🧑‍💻 Sobre mí
+
+- 🎓 **Estudiante de Ingeniería en Informática**
+- 🔭 Actulamente desarrollando aplicaciones web y sistemas administrativos con **PHP / Laravel** y **Python**.
+- ⚙️ Me apasiona la optimización de entornos de desarrollo en **Linux** y la orquestación con **Docker**.
+- ⚡ **Stack principal:** PHP, Laravel, Python, Django, Flet, HTML, CSS, Docker y Linux.
+
 ### 🚀 Tech Stack
 
 #### **Backend Development**
@@ -36,9 +43,13 @@
 
 ---
 
-### 📝 Latest Articles
+### 🚀 Proyectos destacados
 
-- 📄 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine](https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb)
+<p align="center">
+  <a href="https://github.com/gabriel-main/app-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-main&repo=app-python&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
